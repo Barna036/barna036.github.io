@@ -1,0 +1,19 @@
+---
+title: "Contact"
+page-layout: full
+---
+
+::: {.profile-layout}
+
+::: {.contact-text}
+
+# Contact
+
+I can be reached by email at
+[bb25f@fsu.edu](mailto:bb25f@fsu.edu).
+
+[Google Scholar](https://scholar.google.com/citations?user=aCZuH7oAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0005-3935-3182)
+
+:::
+
+:::

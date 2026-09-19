@@ -1,0 +1,12 @@
+---
+title: "C.V."
+page-layout: full
+---
+
+::: {.simple-page}
+
+# Curriculum Vitae
+
+[View my curriculum vitae](cv.pdf){.btn .btn-outline-dark}
+
+:::

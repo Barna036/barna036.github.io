@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - publications.qmd
+    - teaching.qmd
+    - cv.qmd
+    - contact.qmd
+  resources:
+    - cv.pdf
+
+website:
+  title: "Barna Bose"
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: C.V.
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    center: "© Barna Bose"
+    background: "#40212d"
+    foreground: white
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

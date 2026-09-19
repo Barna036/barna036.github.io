@@ -1,0 +1,27 @@
+.teaching-text h2,
+.contact-text h1,
+.simple-page h1 {
+  font-family: Georgia, serif;
+  color: #733c50;
+  font-weight: normal;
+  border-bottom: none;
+}
+
+.teaching-text li {
+  margin-bottom: 12px;
+}
+
+.contact-text {
+  padding-top: 32px;
+}
+
+.contact-text h1 {
+  margin-bottom: 36px;
+}
+
+.simple-page {
+  max-width: 1100px;
+  min-height: 55vh;
+  margin: 45px auto;
+  padding: 0 24px;
+}
