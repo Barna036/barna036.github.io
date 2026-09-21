@@ -25,3 +25,9 @@
   margin: 45px auto;
   padding: 0 24px;
 }
+
+
+/* Hide the extra automatic title on Publications and Teaching */
+.publications-page #title-block-header {
+  display: none;
+}
