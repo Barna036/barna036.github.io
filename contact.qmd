@@ -7,7 +7,6 @@ page-layout: full
 
 ::: {.contact-text}
 
-# Contact
 
 I can be reached by email at
 [bb25f@fsu.edu](mailto:bb25f@fsu.edu).
